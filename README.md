@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dex-dev
+## Bem-vindo(a) ao perfil do Dex
 
  <div>
    <a href="https://github.com/eodex-dev">
