@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h1 data-importer="text" align="center">Hi I'm the dex' and I'm an  a Software Engineering Student.</h1>
+<h1 data-importer="text" align="center">Hi I'm dex and I'm a Software Engineering Student.</h1>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/-PqsThClEiEAAAAC/kaneki-ken-manga.gif"  />
+<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/eodex-dev/gifs/main/kaneki.gif"  />
 
 ###
 
